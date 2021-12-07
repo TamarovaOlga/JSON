@@ -1,0 +1,25 @@
+{
+    "Skills1": "Understanding software testing and development processes",
+    "Skills2": "Understanding the basics of testing",
+    "Skills3": "Skills of client-server architecture",
+    "Skills4": "Skills of HTTP methods of requests to the server and the structure of HTTP requests and responses",
+    "Skills5": "Skills of JSON, XML and their structure",
+    "Skills6": "API testing skills via Postman",
+    "Skills7": "Removing and reading logs from an external server",
+    "Skills8": "Sniffing http web traffic through Charles and Fiddler",
+    "Skills9": "Skills of Dev Tools web browsers",
+    "Skills10": "Skills of what a VPN is and how it works and what it is used for",
+    "Skills11": "Mobile testing skills"
+    "Skills12": "Skills of features of iOS Android guidelines",
+    "Skills13": "Skills of building Android applications on Android Studio",
+    "Skills14": "ADB skills",
+    "Skills15": "Skill of setting up proxy and vpn on iOS and Android",
+    "Skills16": "Mobile traffic sniffing skills via Charles and Fiddler on iOS and Android",
+    "Skills17": "Skills of the Linux command line (terminal)",
+    "Skills18": "Skills of the basics of bash scripting",
+    "Skills19": "Skills of the basics of SQL",
+    "Skills20": "Skills of Postgres database and non-relational Redis database",
+    "Skills21": "Jmeter Load Testing Skill",
+    "Skills22": "Skills of Scrum development methodology",
+    "Skills23": "Skills of Python basics"
+}
