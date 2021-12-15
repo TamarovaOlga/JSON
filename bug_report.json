@@ -8,7 +8,7 @@
     "status": "new",
     "author": "Tamarova Olga",
     "assigned to": "Vadim Ksendzov",
-    "Eenvironment": "Windows 10 Google chrom version 96.0.4664.45",
+    "environment": "Windows 10 Google chrom version 96.0.4664.45",
     "step1": "open registration form",
     "step2": "enter password",
     "actual result": "does not show password",
